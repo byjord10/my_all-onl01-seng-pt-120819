@@ -5,5 +5,6 @@ def my_all?(collection)
 
   while i < colection.length
     i += 1
+  end 
 
 end
